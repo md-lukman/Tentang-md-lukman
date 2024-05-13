@@ -23,8 +23,8 @@
 - Web development projects
 
 ## 📫 How to Reach Me
-- Email: [example@example.com](mailto:lukmanhakim05mei@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-lukman1)
+- Email: [My Email](mailto:lukmanhakim05mei@gmail.com)
+- LinkedIn: [Muhammad Lukman](https://www.linkedin.com/in/muhammad-lukman1)
 
 ## 😄 Pronouns
 - He/Him
