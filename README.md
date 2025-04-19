@@ -4,19 +4,12 @@
 </div>
 
 ## 👀 About Me
-- 🎨 UI/UX Enthusiast
-- 🌐 Frontend Developer
-- 📱 Mobile App Developer
+- Cyber Security
+- Web Developer
 
 ## 🌱 I'm Currently Learning
-- React.js
+- Red Team & Security Engginering
 - Data Structures and Algorithms
-- UI/UX Design
-
-## 💼 Skills
-- HTML, CSS, JavaScript, PHP
-- React, Tailwind CSS
-- Figma, Canva
 
 ## 💞️ I'm Looking to Collaborate On
 - Open source projects
